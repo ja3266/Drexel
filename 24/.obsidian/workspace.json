@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "6768144b262c0010",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe6d0c4e0fb067e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22e36feb9992276b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1af6b22c7d62f1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "81d3bd6ced825360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "607a0c99dcd8289b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7772b4b5f0b755c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b989065ee8548c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a646c7beacd2a6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "07afa8f9aa65096a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28bb228b7455d9e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89422b0355a231e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "def7d5f324e79d46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4f380cf11c530143",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "22e36feb9992276b",
+  "lastOpenFiles": [
+    "Fall/INFO420/1/I420_ch1_notes.md",
+    "Fall/INFO420/1/I420_ch1_text.pdf",
+    "Fall/INFO365/2/lesson_3/ch2_slides.pdf",
+    "Fall/INFO365/2/lesson_3/ch1_slides.pdf",
+    "Fall/INFO365/2/lesson_3",
+    "Fall/INFO310/2/lesson_03",
+    "Fall/INFO420/1/Lecture Week 1- Part 2.ppt",
+    "Fall/INFO420/1/Lecture Week 1 - Part 1.ppt",
+    "Pasted image 20240930190651.png",
+    "Fall/INFO420/1/I420_syllabus_notes.md",
+    "Pasted image 20240930175459.png",
+    "Fall/INFO420/INFO420_Syllabus.pdf",
+    "Fall/INFO420/1/I420_ch2_text.pdf",
+    "Fall/INFO365/1/lesson_1/Lesson 1 Reading Assignment.md",
+    "Fall/INFO365/1/lesson_1/HT INFO-365 - Play Color Game - Specifications.pdf",
+    "Fall/INFO365/1/INFO 365 Syllabus Notes.md",
+    "Fall/INFO365/1/Lesson 1 Reading Assignment.md",
+    "Fall/INFO365/1/Lesson 01 Lecture.md",
+    "Fall/INFO365/1/lesson_1/Lesson 01 Lecture.md",
+    "Fall/INFO151/1/Week 1 Video Notes.md",
+    "Fall/INFO151/1/I151_syllabus_notes.md"
+  ]
+}

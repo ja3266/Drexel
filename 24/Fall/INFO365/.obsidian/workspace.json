@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "3061dbc0596681bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "cea708e04e1f7aa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30ab172c34c2c50c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2/lesson_3/Lesson 3 Video Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "264be1dbe82b3e95",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e908ddf28a4dd33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24dc99bb5d9850a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8bd32c5ecfd5f7ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93ed5109bcd730a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "986512dd70a17a0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3752816af64637f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f156bff1f24dc9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2/lesson_3/Lesson 3 Video Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38e59a41dfcef466",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2/lesson_3/Lesson 3 Video Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03dcde59985bc90c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07c51da7121c42ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2/lesson_3/Lesson 3 Video Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "30ab172c34c2c50c",
+  "lastOpenFiles": [
+    "2/lesson_3/INFO365_lesson_3_assn-2024-10-02_20-50.png",
+    "I365_play_color_game_specs.pdf",
+    "HT INFO-365 - Play Color Game - Specifications.pdf",
+    "2/lesson_3/l3_assn.doc",
+    "2/lesson_3/HT INFO-365 - Lesson 03 Assignment.doc",
+    "2/lesson_3/Lesson 3 Video Notes.md",
+    "2/lesson_3/ch1_slides.pdf"
+  ]
+}

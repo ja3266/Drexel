@@ -1,0 +1,13 @@
+SELECT 
+    TRANSPORTATION_METHOD,
+    GENDER,
+    ROUND((COUNT(CASE WHEN WEIGHT_STATUS LIKE '%Obesity%' THEN 1 END) / COUNT(*)) * 100, 2) AS obese_probability
+FROM 
+    hc848.OBESITY_DATA
+GROUP BY 
+    TRANSPORTATION_METHOD,
+    GENDER
+ORDER BY 
+    obese_probability
+DESC
+;

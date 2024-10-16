@@ -1,0 +1,1 @@
+* Went over syllaus and assignment 1.

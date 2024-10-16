@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://ja3266: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@github.com/ja3266/24
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[credential]
+	helper = store
+[pull]
+	rebase = true
