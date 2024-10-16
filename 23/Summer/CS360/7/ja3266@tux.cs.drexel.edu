@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# test-mceval -- example of testing your interpreter
+#
+
+scheme --quiet --load mceval.scm <<-EOS
+	(define l (cons 1 (cons 2 '())))
+	(car l)
+	(cdr l)
+EOS
