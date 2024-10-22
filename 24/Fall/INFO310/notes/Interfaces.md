@@ -17,3 +17,13 @@ This chapter summarizes the diverse amount of interfaces that could be designed 
 Researchers suggest that interfaces on appliances should be considered as "transient", meaning that the interaction is short. A few structured buttons is better than a massive array of confusing inputs. 
 
 Some feedback is good, like knowing exactly how long the washer/dryer are going to take, but there are trade offs with screens over simple buttons or knobs. 
+
+# In-Class Questions
+1. Describe your interface type in a sentence or two.
+Appliances are interfaces that people use for every-day mundane tasks. 
+
+2. Give an example of a system using that interface type.
+Microwaves, ovens, refrigerators, etc..
+
+3. Share 1-2 takeaways from the Research and Design Considerations box.
+Appliance interfaces should be very straightforward, structured and functional. These designs should be transient, meaning they should be short interactions that don't require much learning to use them. 
