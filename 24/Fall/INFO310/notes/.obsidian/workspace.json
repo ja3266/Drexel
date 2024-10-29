@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What's Involved in UX Prototyping?.md",
+                "file": "Interfaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What's Involved in UX Prototyping?"
+              "title": "Interfaces"
             }
           }
         ],
@@ -179,12 +179,14 @@
   },
   "active": "40c3faf1fe5e4cac",
   "lastOpenFiles": [
+    "Conceptualizing Interaction.md",
+    "Data Analysis, Interpretation, and Results.md",
     "How Do You Generate Design Ideas Video.md",
+    "What is Interaction Design?.md",
+    "The Process of Interaction Design.md",
     "What's Involved in UX Prototyping?.md",
     "Pasted image 20241022152023.png",
-    "What is Interaction Design?.md",
     "Interfaces.md",
-    "Data Analysis, Interpretation, and Results.md",
     "Data Analysis, Interpretation, and Results.md~"
   ]
 }
